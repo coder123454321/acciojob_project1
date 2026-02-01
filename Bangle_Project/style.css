@@ -1,0 +1,11 @@
+  .top-section{
+        border: 1px solid black;
+        width:70%;
+        text-align:start;
+        padding: 5px;
+        margin: 5px;
+        align-items: center;
+    }
+    .headding{
+        text-decoration: underline;
+    }
